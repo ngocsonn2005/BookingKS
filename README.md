@@ -1,18 +1,18 @@
 # BookingKS
 📌 Giới thiệu
 
-Đây là một Single Page Application (SPA) quản lý và đặt phòng khách sạn, xây dựng hoàn toàn bằng HTML, CSS, JavaScript (không sử dụng framework backend).
+  Đây là một Single Page Application (SPA) quản lý và đặt phòng khách sạn, xây dựng hoàn toàn bằng HTML, CSS, JavaScript (không sử dụng framework backend).
 Ứng dụng chạy trực tiếp trên trình duyệt, dữ liệu lưu bằng LocalStorage.
 
 🚀 Chức năng chính
 
 🔑 Xác thực & Phân quyền: Đăng nhập/Đăng ký, phân quyền theo vai trò:
 
-Admin: Toàn quyền (người dùng, phòng, dịch vụ, booking, thanh toán).
+  Admin: Toàn quyền (người dùng, phòng, dịch vụ, booking, thanh toán).
 
-Manager/Staff: Quản lý phòng, dịch vụ, đơn đặt, thanh toán.
+  Manager/Staff: Quản lý phòng, dịch vụ, đơn đặt, thanh toán.
 
-Customer: Đặt phòng, xem & quản lý đơn đặt của mình.
+  Customer: Đặt phòng, xem & quản lý đơn đặt của mình.
 
 🏨 Quản lý phòng: CRUD phòng, loại phòng, tình trạng (Available, Maintenance…).
 

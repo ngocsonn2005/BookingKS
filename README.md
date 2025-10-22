@@ -18,3 +18,14 @@ Version 3
   Hoàn tất — bạn sẽ thấy file/ thư mục gốc như trước khi chia.
   
   Chỉ cần mở part1 — không cần mở từng phần riêng lẻ.
+3) Người nhận phục hồi (Restore)
+
+Người nhận mở SSMS và:
+
+Nhấn chuột phải vào Databases → Restore Database...
+
+Chọn Device, duyệt đến file .bak.
+
+Đặt tên database (hoặc để mặc định).
+
+Nhấn OK để khôi phục.
